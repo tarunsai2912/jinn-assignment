@@ -1,0 +1,182 @@
+.custom{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    padding-left: 2vw;
+}
+.custom-head{
+    font-family: Poppins;
+    font-size: 2vw;
+    font-weight: 700;
+}
+.custom-icon-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-icon-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-icon-inp{
+    width: 3vw;
+    cursor: pointer;
+    border: none;
+    background-color: #EEF2F5;
+}
+.custom-icon-inp:focus{
+    outline: none;
+}
+.custom-bcol-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-bcol-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-bcol-inp{
+    width: 3vw;
+    cursor: pointer;
+    border: none;
+    background-color: #EEF2F5;
+}
+.custom-bcol-inp:focus{
+    outline: none;
+}
+.custom-brad-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-brad-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-brad-inp{
+    width: 5vw;
+    border: none;
+    background-color: #EEF2F5;
+}
+.custom-brad-inp:focus{
+    outline: none;
+}
+.custom-tit-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-tit-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-tit-inp{
+    width: 3vw;
+    border: none;
+    cursor: pointer;
+    background-color: #EEF2F5;
+}
+.custom-tit-inp:focus{
+    outline: none;
+}
+.custom-bgbot-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-bgbot-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-bgbot-inp{
+    width: 3vw;
+    border: none;
+    cursor: pointer;
+    background-color: #EEF2F5;
+}
+.custom-bgbot-inp:focus{
+    outline: none;
+}
+.custom-colbot-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-colbot-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-colbot-inp{
+    width: 3vw;
+    border: none;
+    cursor: pointer;
+    background-color: #EEF2F5;
+}
+.custom-colbot-inp:focus{
+    outline: none;
+}
+.custom-bguser-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-bguser-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-bguser-inp{
+    width: 3vw;
+    border: none;
+    cursor: pointer;
+    background-color: #EEF2F5;
+}
+.custom-bguser-inp:focus{
+    outline: none;
+}
+.custom-coluser-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-coluser-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-coluser-inp{
+    width: 3vw;
+    border: none;
+    cursor: pointer;
+    background-color: #EEF2F5;
+}
+.custom-coluser-inp:focus{
+    outline: none;
+}
+.custom-font-div{
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+.custom-font-head{
+    font-family: Poppins;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+.custom-font-inp{
+    width: 8vw;
+    border: none;
+    cursor: pointer;
+    background-color: #EEF2F5;
+}
+.custom-font-inp:focus{
+    outline: none;
+}

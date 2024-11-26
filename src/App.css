@@ -1,0 +1,12 @@
+.app {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+  background-color: #2395F0;
+  display: flex;
+  flex-direction: row;
+  gap: 2vw;
+  padding: 12px;
+}
