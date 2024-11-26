@@ -13,6 +13,7 @@
 .custom-icon-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-icon-head{
@@ -22,6 +23,7 @@
 }
 .custom-icon-inp{
     width: 3vw;
+    height: 4vh;
     cursor: pointer;
     border: none;
     background-color: #EEF2F5;
@@ -32,6 +34,7 @@
 .custom-bcol-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-bcol-head{
@@ -40,7 +43,9 @@
     font-weight: 500;
 }
 .custom-bcol-inp{
-    width: 3vw;
+    width: 2vw;
+    height: 4vh;
+    border-radius: 100%;
     cursor: pointer;
     border: none;
     background-color: #EEF2F5;
@@ -51,6 +56,7 @@
 .custom-brad-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-brad-head{
@@ -60,6 +66,7 @@
 }
 .custom-brad-inp{
     width: 5vw;
+    height: 4vh;
     border: none;
     background-color: #EEF2F5;
 }
@@ -69,6 +76,7 @@
 .custom-tit-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-tit-head{
@@ -77,7 +85,9 @@
     font-weight: 500;
 }
 .custom-tit-inp{
-    width: 3vw;
+    width: 2vw;
+    height: 4vh;
+    border-radius: 100%;
     border: none;
     cursor: pointer;
     background-color: #EEF2F5;
@@ -88,6 +98,7 @@
 .custom-bgbot-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-bgbot-head{
@@ -96,7 +107,9 @@
     font-weight: 500;
 }
 .custom-bgbot-inp{
-    width: 3vw;
+    width: 2vw;
+    height: 4vh;
+    border-radius: 100%;
     border: none;
     cursor: pointer;
     background-color: #EEF2F5;
@@ -107,6 +120,7 @@
 .custom-colbot-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-colbot-head{
@@ -115,7 +129,9 @@
     font-weight: 500;
 }
 .custom-colbot-inp{
-    width: 3vw;
+    width: 2vw;
+    height: 4vh;
+    border-radius: 100%;
     border: none;
     cursor: pointer;
     background-color: #EEF2F5;
@@ -126,6 +142,7 @@
 .custom-bguser-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-bguser-head{
@@ -134,7 +151,9 @@
     font-weight: 500;
 }
 .custom-bguser-inp{
-    width: 3vw;
+    width: 2vw;
+    height: 4vh;
+    border-radius: 100%;
     border: none;
     cursor: pointer;
     background-color: #EEF2F5;
@@ -145,6 +164,7 @@
 .custom-coluser-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-coluser-head{
@@ -153,7 +173,9 @@
     font-weight: 500;
 }
 .custom-coluser-inp{
-    width: 3vw;
+    width: 2vw;
+    height: 4vh;
+    border-radius: 100%;
     border: none;
     cursor: pointer;
     background-color: #EEF2F5;
@@ -164,6 +186,7 @@
 .custom-font-div{
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 1vw;
 }
 .custom-font-head{
@@ -173,6 +196,7 @@
 }
 .custom-font-inp{
     width: 8vw;
+    height: 4vh;
     border: none;
     cursor: pointer;
     background-color: #EEF2F5;

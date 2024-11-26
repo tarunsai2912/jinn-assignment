@@ -46,15 +46,15 @@ const Customize = ({ customization, setCustomization }) => {
         <input
         className="custom-tit-inp"
         type="color"
-        name="chatTitleBgColor"
-        value={customization.chatTitleBgColor}
+        name="chatboxTitleBgColor"
+        value={customization.chatboxTitleBgColor}
         onChange={handleChange}
         />
       </div>
       <div className="custom-bgbot-div">
         <label className="custom-bgbot-head">Bot Bubble Background Color:</label>
         <input
-        className="custom-bbot-inp"
+        className="custom-bgbot-inp"
         type="color"
         name="botBubbleBgColor"
         value={customization.botBubbleBgColor}
